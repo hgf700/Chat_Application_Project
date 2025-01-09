@@ -21,21 +21,21 @@
           "Refit": "7.1.2",
           "Refit.HttpClientFactory": "7.1.2",
           "System.Net.Http.Json": "8.0.0",
-          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.19041.31"
+          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.19041.44"
         },
         "runtime": {
           "P4Projekt2.dll": {}
         }
       },
-      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.19041.31": {
+      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.19041.44": {
         "runtime": {
           "Microsoft.Windows.SDK.NET.dll": {
-            "assemblyVersion": "10.0.19041.24",
-            "fileVersion": "10.0.19041.31"
+            "assemblyVersion": "10.0.19041.38",
+            "fileVersion": "10.0.19041.43"
           },
           "WinRT.Runtime.dll": {
-            "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.4.44211"
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.2.47512"
           }
         }
       },
@@ -950,7 +950,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.19041.31": {
+    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.19041.44": {
       "type": "runtimepack",
       "serviceable": false,
       "sha512": ""

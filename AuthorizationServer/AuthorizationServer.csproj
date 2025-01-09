@@ -8,9 +8,9 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 	</PropertyGroup>
 
-	<ItemGroup>
+	<!--<ItemGroup>
 		<ProjectReference Include="..\P4Projekt2\P4Projekt2.csproj" />
-	</ItemGroup>
+	</ItemGroup>-->
 	
   <ItemGroup>
     <PackageReference Include="EntityFramework" Version="6.5.1" />

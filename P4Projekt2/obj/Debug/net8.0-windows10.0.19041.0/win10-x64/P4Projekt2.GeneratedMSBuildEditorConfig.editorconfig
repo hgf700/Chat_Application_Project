@@ -12,6 +12,13 @@ build_property.RootNamespace = P4Projekt2
 build_property.ProjectDir = C:\Users\USER098\Documents\GitHub\P4Projekt2\P4Projekt2\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTAotOptimizerEnabled = true
+build_property.CsWinRTAotExportsEnabled = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptIn = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptOut = 
+build_property.CsWinRTCcwLookupTableGeneratorEnabled = true
+build_property.CsWinRTMergeReferencedActivationFactories = 
+build_property.CsWinRTAotWarningLevel = 
 
 [C:/Users/USER098/Documents/GitHub/P4Projekt2/P4Projekt2/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
