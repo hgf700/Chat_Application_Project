@@ -17,7 +17,6 @@ schema = {
     "required": ["Message", "Timestamp", "SenderEmail", "ReceiverEmail"],
 }
 
-
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:postgres1@localhost:5013/MessageDoctor'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False

@@ -1,2 +1,4 @@
 huggingfacetoken.txt
-venv
+venv/
+**/bin/
+**/obj/
